@@ -6,6 +6,10 @@
 - 📫 How to reach me: You can reach me via email at diogo@codigocentral.com.br or connect with me on [LinkedIn](https://www.linkedin.com/in/diogocostadev). Feel free to follow me on [Twitter](https://twitter.com/diogocostadev) and subscribe to my [YouTube channel](https://www.youtube.com/diogocostadev) for programming tutorials and more.
 - ⚡ Fun fact: When I'm not coding or teaching, I love exploring the latest tech gadgets and playing strategy games.
 
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-007ACC?style=for-the-badge&logo=azure-pipelines&logoColor=white)
+
 
 <!---
 diogocostadev/diogocostadev is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
